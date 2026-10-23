@@ -1,0 +1,29 @@
+{
+  "name": "face-recognision",
+  "version": "0.1.0",
+  "description": "Real-time facial expression recognition in the browser",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aytee-80/face-recognision.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aytee-80/face-recognision/issues"
+  },
+  "homepage": "https://github.com/aytee-80/face-recognision#readme",
+  "dependencies": {
+    "@vladmandic/face-api": "^1.7.15",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.5"
+  },
+  "private": true,
+  "type": "module"
+}
